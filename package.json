@@ -1,0 +1,11 @@
+{
+  "name": "webrtc-poc",
+  "description": "A simple WebRTC PoC to send messages from one client to another.",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^6.1.0"
+  }
+}
